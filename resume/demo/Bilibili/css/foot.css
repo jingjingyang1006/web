@@ -1,0 +1,189 @@
+.footer{
+    width: 100%;
+    padding-top: 20px;
+    color: #99a2aa;
+    text-align: center;
+    font-family: "Microsoft YaHei",Arial,Helvetica,sans-serifsans-serif;
+
+}
+.footer-wrp{
+    height: 230px;
+    background-color: #f6f9fa;
+    padding-top: 30px;
+}
+.footer-cnt{
+    width: 980px;
+    margin: 0 auto;
+}
+.footer-cnt ul{
+    padding: 0;
+}
+.boston-postcards{
+    list-style: none;
+    margin: 0 auto;
+    height: 80px;
+    float: left;
+    margin-bottom: 40px
+}
+.clearfix{
+    zoom: 1;
+}
+.boston-postcards li{
+    float: left;
+    text-align: left;
+    list-style: none;
+    width: 296px;
+    height: 100px;
+    padding-right: 10px;
+    line-height: 22px;
+    border-left: solid 1px #e5e9ef;
+    padding-left: 30px;
+    font-size: 14px;
+}
+.boston-postcards li:first-child{
+    border-left: 0;
+    padding-left: 0!important;
+}
+.tips{
+    margin-bottom: 12px;
+}
+.cards{
+    float: left;
+    width: 86px;
+    position: relative;
+}
+.boston-postcards li .cards.taobao{
+    position: relative;
+    background: url(../images/b-taobao.png) no-repeat;
+    width: 100px;
+    height: 40px;
+    margin-bottom: -23px;
+    margin-top: 5px;
+}
+.partner{
+    padding: 0;
+    text-align: left;
+    margin: 0 auto;
+    height: 80px;
+    float: left;
+}
+.footer .left{
+    line-height: 24px;
+}
+.partner-banner{
+    background: url(../images/footpic.png);
+    width: 96px;
+    height: 75px;
+    margin: 3px 10px 3px 0;
+}
+.left{
+    float: left;
+}
+.left a{
+    color: #99a2aa;
+}
+.left a i{
+    display: inline-block;
+    vertical-align: middle;
+    width: 16px;
+    height: 16px;
+    margin-right: 3px;
+    background: url(../images/icons.png) no-repeat;
+    background-position: -1367px -89px;
+}
+.footer .block.right{
+    position: relative;
+    width: 310px;
+}
+.right{
+    float: right;
+    line-height: 22px;
+    margin: 0 0 0 5px!important;
+}
+.right div{
+    position: relative;
+    width: 65px;
+    height: 80px;
+    float: left;
+    margin-right: 25px;
+}
+.right .pic{
+    position: relative;
+    width: 65px;
+    height: 65px;
+}
+.right .phone .pic{
+    background: url(../images/icons.png) no-repeat -1020px -190px;
+}
+.right em{
+    position: absolute;
+    width: 70px;
+    height: 16px;
+    float: left;
+    bottom: 0;
+    left: 0;
+    text-align: center;
+    color: #222;
+}
+.right .qrcode-box-wrp{
+    width: 130px;
+    height: 130px;
+    background: #fff;
+    margin-top: -140px;
+    right: -57px;
+    position: absolute;
+    visibility: hidden;
+    opacity: 0;
+    transition: .2s;
+}
+.right .qrcode-box.qrcode-app{
+    background: url(../images/app-qrcode.png) center center no-repeat;
+}
+.right .qrcode-box{
+    width: 130px;
+    height: 130px;
+    border: 1px solid #e5e9ef;
+}
+.footer .block.right .qrcode-box .qrcode-box-arrow{
+    width: 130px;
+    height: 143px;
+    background: url(../images/wx-arrow.png) bottom center no-repeat;
+}
+.right .weibo .pic{
+    background: url("../images/icons.png") no-repeat -1020px -318px;
+}
+.footer .block.right .qrcode-box.qrcode-weibo{
+    background: url(../images/weibo-qrcode.png) center center no-repeat;
+}
+.footer .block.right .weixin .pic{
+    background: url("../images/icons.png") no-repeat -1020px -62px;
+}
+.footer .block.right .qrcode-box.qrcode-weixin{
+    background: url("../images/wx.jpg") center center no-repeat;
+}
+
+.right div:hover .qrcode-box-wrp{
+    visibility: visible;
+    opacity: 1;
+}
+.footer a:hover{
+    color: #00a1d6;
+}
+.header .num li a:hover{
+    color: #00a1d6;
+}
+/*.header .num li a:hover ul.i-num{
+    display: block;
+}
+.right div:hover .right em{
+    color: #00a1d6;
+}*/
+.clearfix:after{
+    content: "";
+    display: block;
+    visibility: hidden;
+    height: 0;
+    clear: both;
+    font-size: 0;
+}
+

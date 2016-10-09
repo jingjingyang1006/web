@@ -1,0 +1,6 @@
+div, ul, li, a, span, img, h1, h2, h3, h4, h5, p, dt, dl, dd{
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+	font-family: 'Microsoft YaHei',Helvetica,Arial,sans-serif;
+}

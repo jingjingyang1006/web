@@ -1,0 +1,24 @@
+.lf{
+	float:left;
+}
+.rf{
+	float:right;
+}
+
+.mod-user-unselect {
+	-moz-user-select: -moz-none;
+	cursor: default;
+}
+
+.pr {
+	position: relative;
+}
+
+.pa {
+	position: absolute;
+}
+
+.box {
+	box-sizing: border-box;
+	padding: 20px;
+}

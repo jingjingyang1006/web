@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <style>
+        *{
+            margin:0;
+            padding:0;
+        }
+        #s{
+            width: 350px;
+            height: 350px;
+            position: relative;
+            margin: 20px;
+            background: url("img/iphone.jpg") no-repeat;
+            box-shadow: 4px 4px 10px #111;
+        }
+        #m{
+            display: none;
+            position:absolute;
+            width: 150px;
+            height: 150px;
+            background: darkkhaki;
+            opacity: 0.5;
+            filter:alpha(opacity=50);
+        }
+        #b{
+            display: none;
+            width: 500px;
+            height: 500px;
+            position: absolute;
+            left:390px;
+            top:20px;
+            overflow: hidden;
+        }
+        #b img{
+            position: absolute;
+            left:0;
+            top:0;
+            width: 234%;
+            height: 234%;
+        }
+    </style>
+</head>
+<body>
+<div id="s">
+    <div id="m"></div>
+</div>
+<div id="b">
+    <img src="img/iphone_big.jpg" alt=""/>
+</div>
+<script>
+    var oS=document.getElementById('s');
+    var oM=document.getElementById('m');
+    var oB=document.getElementById('b');
+    var oImg=oB.getElementsByTagName('img')[0];
+    //当鼠标移入s时，让m和b显示；鼠标移出时，让m和b隐藏；
+    oS.onmouseenter=function(){
+        oM.style.display='block';
+        oB.style.display='block';
+    };
+    oS.onmousemove=function(e){
+        e=e||window.event;
+        var l= e.clientX-this.offsetLeft-oM.offsetWidth/2;
+        var t= e.clientY-this.offsetTop-oM.offsetHeight/2;
+        //进行边界值的判断
+        if(l<=0){
+            l=0;
+        }else if(l>=oS.offsetWidth-oM.offsetWidth){
+            l=oS.offsetWidth-oM.offsetWidth
+        }
+        if(t<=0){
+            t=0;
+        }else if(t>=oS.offsetHeight-oM.offsetHeight){
+            t=oS.offsetHeight-oM.offsetHeight
+        }
+        oM.style.left=l+'px';
+        oM.style.top=t+'px';
+        //核心比例计算公式：l/(oS.width-oM.width)=x/(img.width-oB.width)
+        oImg.style.left=-l/(oS.offsetWidth-oM.offsetWidth)*(oImg.offsetWidth-oB.offsetWidth)+'px';
+        oImg.style.top=-t/(oS.offsetHeight-oM.offsetHeight)*(oImg.offsetHeight-oB.offsetHeight)+'px';
+    };
+    oS.onmouseleave=function(){
+        oM.style.display='none';
+        oB.style.display='none';
+    };
+</script>
+</body>
+</html>

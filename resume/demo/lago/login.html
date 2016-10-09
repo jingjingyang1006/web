@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        .clearfix:after {
+            content: "";
+            display: block;
+            height: 0;
+            visibility: hidden;
+            clear: both;
+        }
+        .clearfix {
+            *zoom: 1;
+        }
+        *{
+            margin:0;
+            padding: 0;
+        }
+        .header {
+            position: relative;
+            width: 100%;
+            height: 323px;
+            background-color: #00b38a;
+        }
+        .logo {
+            position: absolute;
+            z-index: 9999;
+            top: 70px;
+            left: 136px;
+            display: inline-block;
+            width: 128px;
+            height: 54px;
+            background: url(img/Login/logo_13bcdf6.png) left top no-repeat;
+        }
+        .contenter{
+            width: 556px;
+            margin: -168px auto 0 auto;
+            padding: 50px 47px 60px 57px;
+            background-color: #fff;
+            display: table;
+            border-radius: 2px;
+            box-shadow: 0 0 5px rgba(0,0,0,.09);
+            height: 100px;
+            position: relative;
+            z-index: 5;
+        }
+        .content_1{
+            width: 300px;
+            margin-right: 46px;
+            float: left;
+        }
+        .content_2{
+            float: left;
+            width: 14px;
+            height: 253px;
+            background: url("img/Login/divider-login_3362138.jpg");
+        }
+        .content_3{
+            width: 150px;
+            margin-left: 46px;
+            color: #777;
+            float: left;
+        }
+        .contenter input{
+            width: 272px;
+            border:1px solid #f8f8f8;
+            background-color: #f8f8f8;
+            font-size: 14px;
+            position: relative;
+            z-index: 1;
+            height: 44px;
+            line-height: 44px;
+            padding-right: 13px;
+            padding-left: 13px;
+            vertical-align: middle;
+            color: #333;
+            border-radius: 2px;
+            outline: none;
+        }
+        .contenter input:nth-child(2){
+            margin-top: 20px;
+        }
+        .contenter input:nth-child(3){
+            margin-top: 20px;
+            width: 130px;
+            float: left;
+        }
+        .yz{
+            width: 100px;
+            height: 46px;
+            vertical-align: top;
+            background: url("img/Login/create.jpg") 0 0 no-repeat;
+            margin-top: 20px;
+            margin-left: 158px;
+        }
+        .content_1 .yz a{
+            display:block;
+            height: 48px;
+            width: 19px;
+            margin-left: 115px;
+            vertical-align: middle;
+            background: url(https://www.lgstatic.com/passport/static/pc/modules/common/img/icon-reflash_a187c0b.jpg) center center no-repeat;
+        }
+        .content_4 a{
+            position: relative;
+            float: right;
+            font-size: 14px;
+            text-align: right;
+            text-decoration: none;
+            color: #00b38a;
+            z-index: 3;
+            margin-top: 10px;
+        }
+        .content_1 p{
+            font-size: 14px;
+            text-align: center;
+            margin: 20px 0;
+            font-weight: 400;
+        }
+        .content_1 p a{
+            font-size: 18px;
+            color: #00a57f;
+        }
+        .content_1 p i{
+            width: 18px;
+            height: 18px;
+            display:inline-block;
+            background: url(img/Login/icon-arrow-right_f36c0d6.png) right center no-repeat;
+        }
+        .content_3 h5{
+            font-size: 14px;
+            color: #777;
+            font-weight: 500;
+        }
+        .content_3 ul{
+            margin-top: 10px;
+        }
+        ul,li{
+            list-style: none;
+        }
+        .content_3 ul li{
+            float: left;
+            width: 44px;
+            height: 43px;
+            margin-right: 9px;
+            /*background: red;*/
+        }
+        .content_3 ul li:nth-child(3){
+            margin-right: 0;
+        }
+        .content_3 ul li a{
+            display: block;
+            width: 100%;
+            height: 100%;
+        }
+        .content_3 ul li:nth-child(1)  a{
+            background: url("img/Login/icon-sina_9cae1d9.png");
+        }
+        .content_3 ul li:nth-child(2) a{
+            background: url("img/Login/icon-tecent_5870bd4.png");
+        }
+        .content_3 ul li:nth-child(3) a{
+            background: url("img/Login/icon-wechat_12ea62f.png");
+        }
+        .content_3>div{
+            margin-top: 95px;
+            /*text-align: center;*/
+        }
+        .content_3>div img {
+            width: 124px;
+            height: 124px;
+        }
+        .content_3>div>p{
+            font-size: 12px;
+            margin-left: 5px;
+        }
+    </style>
+</head>
+<body>
+     <div class="header">
+         <a class="logo" href="#"></a>
+     </div>
+<div class="contenter">
+    <div class="content_1 clearfix">
+        <input type="text" placeholder="请输入已验证手机/邮箱">
+        <input type="password" placeholder="请输入密码">
+        <input type="text" placeholder="请证明你不是机器人">
+        <div class="yz"> <a href="#"></a></div>
+        <div class="content_4"><a href="#">忘记密码？</a></div>
+        <input type="submit" style="width: 300px;height: 44px; margin-top: 20px ;border-color: #00b38a;
+    background-color: #00b38a;font-size: 18px;color: #fff ;font-weight:600;line-height: 44px ;cursor: pointer " value="登录">
+        <p>还没有拉勾账号？<a href="">立即注册 <i></i></a></p>
+    </div>
+    <div class="content_2"></div>
+    <div class="content_3">
+        <h5>使用以下帐号直接登录:</h5>
+        <ul>
+            <li><a href=""></a></li>
+            <li><a href=""></a></li>
+            <li><a href=""></a></li>
+        </ul>
+        <div><img src="img/Login/qrcode_0ec6bff.jpg" alt=""> <p>[ 扫码下载拉勾APP ]</p></div>
+    </div>
+
+</div>
+
+
+</body>
+</html>

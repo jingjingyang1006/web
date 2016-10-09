@@ -1,0 +1,891 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f9af553e-6ea0-4bc9-83d8-71b056482b4e" name="Default" comment="">
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\Mobile_Laputa\img\bg\bg5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\top\top4\3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\leftChildren\two\1\6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\select2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\css\index.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\leftChildren\ten\1\2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\bottom\2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\leftChildren\four\1\3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\leftChildren\one\3\2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\leftChildren\one\1\2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\Mobile_Laputa\.idea\vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\leftChildren\ten\1\1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\Mobile_Laputa\img\bg\bg4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\leftChildren\three\2\2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\TableAndSort\img\tr_back.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\JSONP_Baidu_Serach\js\index.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\search.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\Mobile_Laputa\img\product\laputa2-left.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\Mobile_Laputa\.idea\encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\Mobile_Laputa\js\jquery-2.1.3.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\bracelet.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\leftChildren\two\1\1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\Mobile_Laputa\.idea\.name" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\leftChildren\one\2\1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\leftChildren\two\2\5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\top\top6\5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\T1nNLgBmJv1RXrhCrK.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\JSONP_Baidu_Serach\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\mi-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\top\top1\4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\leftChildren\three\1\1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\leftChildren\three\1\6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\fixed\img\about_me_nav.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\leftChildren\eight\1\4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\leftChildren\two\2\2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\Mobile_Laputa\img\bg\bg2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\leftChildren\four\1\2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\leftChildren\three\1\3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\movePower1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\movePower.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\top\top4\5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\top\top5\1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\top\top3\2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\mini.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\Mobile_Laputa\css\animate.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\top\top2\2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\picture1\power\4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\bottom\5.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\top\top1\6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\leftChildren\ten\1\4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\leftChildren\eight\1\1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\picture1\video\4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\Mobile_Laputa\img\product\laputa2-front.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\小米_files\select1.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\top\top6\2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\top\top5\3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\Drag\js\api.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\fixed\img\mobile.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\leftChildren\two\1\2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\picture1\power\3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\leftChildren\one\1\1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\T1g5hgBmKv1RXrhCrK.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\top\top4\6.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\picture1\video\2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\leftChildren\eight\1\6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\Mobile_Laputa\.idea\test1111.iml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\picture1\video\1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\top\top5\2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\picture1\host\3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\Mobile_Laputa\img\bg\bg6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\leftChildren\one\2\2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\lamp.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\leftChildren\two\2\3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\bloothbox.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\select1.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\leftChildren\three\2\1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\picture1\T1PuEQBKJT1RXrhCrK.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\top\top6\4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\picture1\video\icon.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\noteg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\Mobile_Laputa\img\taobao.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\js\index.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\top\top5\4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\小米_files\rightSearch.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\leftChildren\seven\1\1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\leftChildren\eight\1\3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\TableAndSort\js\table.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\Mobile_Laputa\img\product\laputa2-right.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\2a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\T1SXLQByhv1RXrhCrK.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\earphone2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\Mobile_Laputa\.idea\workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\picture1\host\1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\Mobile_Laputa\img\product\laputa1-left-small.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\Mobile_Laputa\img\bg\bg1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\leftChildren\three\1\5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\top\top2\1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\leftChildren\five\1\4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\top\top1\1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\top\top2\3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\小米_files\2a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\top\top4\4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\picture1\video\no.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\top\top2\5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\小米_files\movePower.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\leftChildren\one\1\5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\bottom\3.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\小米_files\balanceCar.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\picture1\ear\3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\leftChildren\five\1\3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\leftChildren\one\1\6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\sportCreama.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\leftChildren\five\1\1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\Mobile_Laputa\css\index.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\小米_files\leftSelect.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\leftChildren\five\2\1.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\leftChildren\one\1\3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\JSONP_Baidu_Serach\js\jsonp.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\leftChildren\one\3\3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\小米_files\noteg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\leftChildren\two\2\4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\Mobile_Laputa\.idea\misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\leftChildren\one\1\4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\leftChildren\three\1\4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\leftChildren\ten\1\5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\Drag\js\drag.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\小米_files\select2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\top\top6\1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\video.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\JSONP_Baidu_Serach\css\index.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\TableAndSort\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\leftChildren\six\1\1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\iphone-five\3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\TableAndSort\css\table.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\Mobile_Laputa\img\logo\Laputa_Logo.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\T1_rZgB4xv1RXrhCrK.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\top\top1\3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\leftChildren\two\1\5.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\router.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\iphone-five\1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\picture1\ear\4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\小米_files\T1nNLgBmJv1RXrhCrK.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\picture1\host\4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\top\top2\4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\waterCleaner.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\bottom\4.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\weighting.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\balanceCar.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\Mobile_Laputa\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\top\top1\2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\leftChildren\one\3\1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\picture1\host\2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\leftChildren\ten\1\3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\leftChildren\three\1\2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\picture1\ear\2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\leftChildren\one\2\5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\leftChildren\one\2\3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\top\top4\1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\leftChildren\two\1\3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\4c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\小米_files\4c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\picture1\power\2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\leftChildren\two\1\4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\iphone-five\2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\picture1\video\3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\小米.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\Mobile_Laputa\js\index.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\nerRouter.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\leftChildren\five\2\2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\leftChildren\five\1\2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\delete.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\leftChildren\eight\1\5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\Drag\js\animate.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\top\top1\5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\boolthRein.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\Mobile_Laputa\img\bg31.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\top\top3\3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\小米_files\bracelet.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\leftChildren\nine\1\1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\Mobile_Laputa\img\bg\bg3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\Mobile_Laputa\img\bg1.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\leftChildren\five\1\6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\leftChildren\six\1\3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\Drag\css\style.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\leftChildren\two\2\1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\Mobile_Laputa\.idea\modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\Drag\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\top\top4\2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\top\top6\3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\leftChildren\one\2\4.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\camera.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\leftChildren\seven\1\2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\小米_files\search.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\leftSelect.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\小米_files\router.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\小米_files\mini.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\leftChildren\six\1\2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\T1K_DgB4Lv1RXrhCrK.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\picture1\ear\1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\js\jsonp.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\leftChildren\five\1\5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\top\top3\1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\小米_files\nerRouter.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\leftChildren\four\1\1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\rightSearch.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\leftChildren\one\2\6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\earphone.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\bottom\1.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\小米_files\boolthRein.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\top\top6\6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\leftChildren\nine\1\2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\picture1\power\1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\Drag\js\event.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\demo\mi\picture\leftChildren\eight\1\2.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fixed/css/style.css" afterPath="$PROJECT_DIR$/fixed/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fixed/img/me.jpg" afterPath="$PROJECT_DIR$/fixed/img/me.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fixed/img/tm-bg-slide.jpg" afterPath="$PROJECT_DIR$/fixed/img/tm-bg-slide.jpg" />
+    </list>
+    <ignored path="web.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="web" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fixed/js/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="210" column="7" selection-start-line="210" selection-start-column="7" selection-end-line="210" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jquery.fullPage.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fixed/js/jquery.fullPage.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jquery.easings.min.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fixed/js/jquery.easings.min.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="utils.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fixed/js/utils.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jqtoTop2.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo/js/jqtoTop2.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="utils.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo/js/utils.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/demo/Bilibili/js/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.4429066">
+              <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="move.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo/Bilibili/js/move.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="utils.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo/Bilibili/js/utils.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EventEmitter.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fixed/js/EventEmitter.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/fixed/css/style.css" />
+        <option value="$PROJECT_DIR$/demo/js/jqtoTop2.js" />
+        <option value="$PROJECT_DIR$/demo/js/utils.js" />
+        <option value="$PROJECT_DIR$/demo/Bilibili/js/move.js" />
+        <option value="$PROJECT_DIR$/demo/Bilibili/js/utils.js" />
+        <option value="$PROJECT_DIR$/demo/Bilibili/js/index.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fixed" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fixed" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bilibili" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bilibili" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope">
+        <subPane subId="Project Files" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\web" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JsTestDriver-test-runner" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f9af553e-6ea0-4bc9-83d8-71b056482b4e" name="Default" comment="" />
+      <created>1475988430633</created>
+      <option name="number" value="Default" />
+      <updated>1475988430633</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23271768" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#div#2;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#9862#12477#0" expanded="false" />
+            <marker date="1476007691157" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#div#2;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#9862#12477#0" expanded="false" />
+            <marker date="1476007691157" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/lago/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/Bilibili/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fixed/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="760" column="1" selection-start-line="760" selection-start-column="1" selection-end-line="760" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/Bilibili/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/lago/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.027681662">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/meta.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="52" column="16" selection-start-line="52" selection-start-column="16" selection-end-line="52" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/phrase.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="369" column="16" selection-start-line="369" selection-start-column="16" selection-end-line="369" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.454545">
+          <caret line="109" column="43" selection-start-line="109" selection-start-column="43" selection-end-line="109" selection-end-column="43" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#div#2;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#9862#12477#0" expanded="false" />
+            <marker date="1476007691157" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fixed/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="331" column="1" selection-start-line="331" selection-start-column="1" selection-end-line="331" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/回到顶部.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/不固定比例-放大镜.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fixed/js/animate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fixed/js/event.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fixed/js/EventEmitter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fixed/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="210" column="7" selection-start-line="210" selection-start-column="7" selection-end-line="210" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fixed/js/jquery.fullPage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fixed/js/jquery.easings.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fixed/js/utils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/js/jqtoTop2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/js/utils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/Bilibili/js/move.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/Bilibili/js/utils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/Bilibili/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4429066">
+          <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
